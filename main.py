@@ -10,8 +10,8 @@ import time
 from datetime import datetime
 #from database.users_chats_db import db
 
-API_ID = "25450075"
-API_HASH = "278e22b00d6dd565c837405eda49e6f2"
+API_ID = "12227067"
+API_HASH = "b463bedd791aa733ae2297e6520302fe"
 BOT_TOKEN = os.environ.get("BOT_TOKEN", None) 
 MONGO_URL = "mongodb+srv://Sagar:parth3435@sagar.jogy8zv.mongodb.net/?retryWrites=true&w=majority"
 DATABASE_NAME = os.environ.get("DATABASE_NAME") 
